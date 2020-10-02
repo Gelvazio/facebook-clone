@@ -15,7 +15,7 @@
 <h4 align="left">
   Demotração do Projeto, acessar link abaixo.
 </h4 >
-<a href="https://dazzling-hamilton-497b5d.netlify.app/" target="_blank" >https://dazzling-hamilton-497b5d.netlify.app/</a>
+<a href="https://nostalgic-leakey-8781ab.netlify.app/" target="_blank" >https://nostalgic-leakey-8781ab.netlify.app</a>
 
 <h4 align="left">
   Demotração do Projeto Clone Desenvolvido.
@@ -41,10 +41,10 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/facebook
+$ git clone https://github.com/SilvaneiMartins/facebook-clone
 
 # Go into the repository
-$ cd facebook
+$ cd facebook-clone
 
 # Install dependencies
 $ yarn
@@ -60,7 +60,7 @@ $ npm start
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/facebook/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/facebook-clone/blob/master/LICENSE) for more information.
 
 ---
 
