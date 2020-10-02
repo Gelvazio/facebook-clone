@@ -1,0 +1,97 @@
+.header {
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    background-color: white;
+    z-index: 100;
+    top: 0;
+    box-shadow: 0px 5px 8px -9px rgba(0,0,0,0.75);
+}
+
+.header__left {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header__input {
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    background-color: #EFF2F5;
+    padding: 10px;
+    border-radius: 999px;
+}
+
+.header__input .MuiSvgIcon-root {
+    color: gray;
+}
+
+.header__input input {
+    border: none;
+    background-color: transparent;
+    outline-width: 0;
+    font-size: 16px;
+    color: gray;
+}
+
+.header__left img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+
+.header__middle {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.header__option .MuiSvgIcon-root {
+    color: gray;
+}
+
+.header__option:hover .MuiSvgIcon-root {
+    color: #2E81F4;
+}
+
+.header__info {
+    display: flex;
+}
+
+.header__option {
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    cursor: pointer;
+}
+
+.header__option__active {
+    border-bottom: 4px solid #2E81F4;
+}
+
+.header__option__active .MuiSvgIcon-root {
+    color: #2E81F4;
+}
+
+.header__option:hover {
+    background-color: #EFF2F5;
+    border-radius: 5px;
+    align-items: center;
+    padding: 0 30px;
+    border-bottom: none;
+}
+
+.header__right {
+    display: flex;
+}
+
+.header__info {
+    display: flex;
+    align-items: center;
+}
+
+.header__info h4 {
+    margin-left: 10px;
+}
